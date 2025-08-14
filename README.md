@@ -1,1 +1,1 @@
-# fruit-quality-analysis
+# Diabetes Prediction Data Cleaning Project 
